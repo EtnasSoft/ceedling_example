@@ -1,0 +1,7 @@
+{
+    "editor.wordWrapColumn": 80,
+    "code-runner.executorMap": {
+        "c": "cd $workspaceRoot && make"
+    },
+    "code-runner.saveFileBeforeRun": true
+}
